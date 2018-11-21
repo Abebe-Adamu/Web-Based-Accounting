@@ -1,0 +1,58 @@
+09/04/2018 06:08:41 -- manager@example.com Added a new journal entry. Ref. Number : 4 --  -- manager
+09/04/2018 06:09:21 -- manager@example.com Logged in -- manager -- manager
+09/04/2018 06:09:34 -- manager@example.com Added a new journal entry. Ref. Number : 5 -- manager -- manager
+09/04/2018 07:05:50 -- manager@example.com Logged out -- manager -- manager
+09/04/2018 07:06:00 -- user@example.com Logged in -- john -- user
+09/04/2018 07:06:10 -- user@example.com Logged out -- john -- user
+09/04/2018 07:08:36 -- admin@example.com Logged in -- admin -- admin
+09/04/2018 07:09:02 -- admin@example.com Logged out -- admin -- admin
+09/04/2018 07:09:06 -- manager@example.com Logged in -- manager -- manager
+09/04/2018 07:10:43 -- manager@example.com Changed the status of the Journal  : 5 to REJECTED -- manager -- manager
+10/04/2018 07:16:21 -- manager@example.com Logged in -- manager -- manager
+10/04/2018 07:28:20 -- manager@example.com Logged out -- manager -- manager
+12/04/2018 13:52:41 -- manager@example.com Logged in -- manager -- manager
+12/04/2018 14:39:07 -- manager@example.com Logged in -- manager -- manager
+12/04/2018 14:44:06 -- manager@example.com Logged in -- manager -- manager
+14/04/2018 04:02:21 -- manager@example.com Logged in -- manager -- manager
+14/04/2018 05:48:28 -- manager@example.com Logged in -- manager -- manager
+14/04/2018 07:14:56 -- manager@example.com Logged in -- manager -- manager
+14/04/2018 10:16:44 -- manager@example.com Logged in -- manager -- manager
+14/04/2018 12:12:06 -- manager@example.com Logged in -- manager -- manager
+15/04/2018 01:27:19 -- manager@example.com Logged in -- manager -- manager
+15/04/2018 01:44:44 -- manager@example.com Created a New Account : 121 -- manager -- manager
+15/04/2018 05:59:06 -- manager@example.com Logged in -- manager -- manager
+15/04/2018 10:10:04 -- manager@example.com Logged in -- manager -- manager
+15/04/2018 16:10:46 -- manager@example.com Logged in -- manager -- manager
+16/04/2018 00:58:26 -- manager@example.com Logged in -- manager -- manager
+22/04/2018 07:34:18 -- admin@example.com Logged in -- admin -- admin
+23/04/2018 00:24:27 -- manager@example.com Logged in -- manager -- manager
+23/04/2018 01:10:05 -- Wrong login attempt by manager@example.com --  -- 
+23/04/2018 01:10:12 -- manager@example.com Logged in -- manager -- manager
+23/04/2018 03:28:56 -- manager@example.com Logged in -- manager -- manager
+23/04/2018 03:29:37 -- manager@example.com Added a new journal entry. Ref. Number : 28 -- manager -- manager
+23/04/2018 03:30:42 -- manager@example.com Added a new journal entry. Ref. Number : 29 -- manager -- manager
+23/04/2018 03:38:30 -- manager@example.com Added a new journal entry. Ref. Number : 30 -- manager -- manager
+23/04/2018 05:03:07 -- Wrong login attempt by manager@example.com -- manager -- manager
+23/04/2018 05:03:10 -- manager@example.com Logged in -- manager -- manager
+23/04/2018 15:46:03 -- manager@example.com Logged in -- manager -- manager
+23/04/2018 21:58:26 -- manager@example.com Logged in -- manager -- manager
+23/04/2018 23:09:48 -- manager@example.com Logged in -- manager -- manager
+24/04/2018 00:22:29 -- manager@example.com Logged out -- manager -- manager
+24/04/2018 00:22:37 -- admin@example.com Logged in -- admin -- admin
+24/04/2018 00:23:16 -- admin@example.com Logged out -- admin -- admin
+24/04/2018 00:23:20 -- manager@example.com Logged in -- manager -- manager
+24/04/2018 00:27:28 -- manager@example.com Logged out -- manager -- manager
+24/04/2018 00:27:34 -- admin@example.com Logged in -- admin -- admin
+24/04/2018 01:01:19 -- admin@example.com Logged out -- admin -- admin
+24/04/2018 01:01:25 -- manager@example.com Logged in -- manager -- manager
+30/04/2018 18:23:49 -- user@example.com Logged in -- john -- user
+30/04/2018 18:29:50 -- admin@example.com Logged in -- admin -- admin
+30/04/2018 19:15:22 -- user@example.com Logged in -- john -- user
+27/07/2018 16:06:37 -- user@example.com Logged in -- john -- user
+27/07/2018 16:08:03 -- user@example.com Logged out -- john -- user
+18/08/2018 03:07:50 -- user@example.com Logged in -- john -- user
+28/08/2018 21:31:55 -- user@example.com Logged in -- john -- user
+28/08/2018 21:36:30 -- Wrong login attempt by user@example.com -- john -- user
+28/08/2018 21:36:37 -- user@example.com Logged in -- john -- user
+21/11/2018 06:30:34 -- and@test.com Created a new account --  -- 
+21/11/2018 06:30:45 -- and@test.com Logged in -- andrew -- 

@@ -1,0 +1,20 @@
+.non_editable {
+    border: none;
+    background: transparent;
+    outline: 0;
+}
+
+editable {
+    border: none;
+    outline: 0;
+}
+
+.hide{
+    visibility: hidden;
+}
+.doubleUnderline {
+    /*text-decoration:underline;*/
+    border-bottom: 3px double #000;
+
+
+}
